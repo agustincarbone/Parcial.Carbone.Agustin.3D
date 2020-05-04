@@ -1,0 +1,10 @@
+{
+    "name": "agustin/composer-test",
+    "authors": [
+        {
+            "name": "agustincarbone",
+            "email": "aguscarbone2013@gmail.com"
+        }
+    ],
+    "require": {}
+}
